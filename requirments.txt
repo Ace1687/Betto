@@ -1,0 +1,7 @@
+elevenlabs
+pyaudio
+openai
+dotenv
+pillow
+langchain_community
+PyQt6 keyboard pvporcupine
