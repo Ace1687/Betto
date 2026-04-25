@@ -9,5 +9,7 @@ __pycache__/
 
 # secrets
 .env
+*.env
 
+# API / secret files
 Betto agent id and API.txt
